@@ -3,9 +3,9 @@
 curso de giiiiiiiiit
 
 
-en este curso aprenderas instalacion de git
-
-creacion de un repositorio
-
-... y mucho mas
+-en este curso aprenderas instalacion de git
+-creacion de un repositorio
+-comandos basicos
+-trabajo en equipo
+-... y mucho mas
 
